@@ -78,8 +78,7 @@ footer{
 #logo{
    /*Your code here.*/
    position: relative;
-   animation-name: logo_wiggle;
-   animation-duration: 15s; 
+   animation: logo_wiggle 15s;
 }
 
 /* Cards! */
