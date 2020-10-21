@@ -90,7 +90,7 @@ footer{
     flex-wrap: wrap;
     justify-content: center;
     /*Don't forget to vertically and horizontally alight the card*/
-    align-content: center;
+    align-items: center;
 }
 
 .card {
@@ -145,9 +145,9 @@ footer{
 
 /* Gallery! */
 .gallery{
+  display: flex;
   min-height: 600px;
   /*Your code here again.*/
-  display: flex;
   justify-content: center;
   align-content: center;
   flex-wrap: wrap;
