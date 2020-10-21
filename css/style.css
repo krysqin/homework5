@@ -233,7 +233,7 @@ header{
     background-image: none;
   }
   .pricing{
-    align-items: top;
+    align-items: flex-start;
   }
   .gallery, h2#gallery{
     display: none;
