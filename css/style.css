@@ -235,7 +235,7 @@ header{
   .pricing{
     align-content: top;
   }
-  .gallery{
+  .gallery, .gallery > img{
     display: none;
   }
 }
